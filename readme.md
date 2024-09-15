@@ -1,3 +1,5 @@
+This repository is based Udemy course "AWS Certified Machine Learning Specialty MLS-C01 [2024]" (https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/?couponCode=ACCAGE0923)
+
 ##### Data Cleansing
 - `missing_value_depedent_data`: This script uses the Iris dataset to demonstrate how to handle missing values that are dependent on other variables. It first identifies the presence of missing values, calculates the number of missing values per column, and then fills these missing values with the mean of the corresponding class.
 - `missing_value_timeseries`: This script handles missing values in a time-series dataset using different approaches: Dropping, Filling with zero, Replacing with mean, Interpolating, Forward filling, Backward filling.
